@@ -1,0 +1,8 @@
+{
+  "editor.cursorStyle": "line",
+  "editor.accessibilitySupport": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 14
+}
